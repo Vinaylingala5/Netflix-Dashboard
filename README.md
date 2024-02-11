@@ -31,4 +31,4 @@ How to Use
 Open the Tableau workbook file and start exploring!
 
 
-alt="SS 3"/>
+<img src = "https://github.com/Vinaylingala5/Netflix-Dashboard/blob/main/Screenshot.png" alt="SS 3"/>
