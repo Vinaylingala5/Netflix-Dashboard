@@ -1,4 +1,4 @@
-# Netflix Dashboard on Tableau 
+# StreamInsights: Netflix Data Dashboard
 
 
 ## Overview :  
